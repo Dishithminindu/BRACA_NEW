@@ -1,4 +1,4 @@
-# SCAR Real-Time Task Management App
+# BRACA  Real-Time Task Management App
 
 A collaborative task management system for **Small Cat Advocacy and Research (SCAR)** designed for field researchers, biologists, educators, and volunteers. Featuring **real-time cross-device synchronization**, the application synchronizes changes instantaneously across phones, tablets, and laptops without requiring expensive servers.
 
